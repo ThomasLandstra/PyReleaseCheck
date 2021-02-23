@@ -46,6 +46,10 @@ print(pycheck.isCurrent(version, repo, notify, notifyDuration))
 ```
 
 ## Changelog
+### V0.2.0
+- Added macOS support for notifications
+- Added new function to get current version
+
 ### V0.1.0
 - Can now check local version against github release name
 - Added ability to notify
